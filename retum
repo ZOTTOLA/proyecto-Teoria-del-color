@@ -1,0 +1,29 @@
+[33mcommit b08c055478080caa1e7990f3f9596a02bad4c26b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mseccionUno[m[33m)[m
+Author: alejandra <malejandrazottola@gmail.com>
+Date:   Mon Aug 4 04:48:47 2025 -0300
+
+    estructura de galeria de color, falta agregar las 6 cards
+
+[33mcommit 48d3ce7163bc073f45c9d3abdb99bde3cf1835a9[m
+Author: alejandra <malejandrazottola@gmail.com>
+Date:   Mon Aug 4 04:01:46 2025 -0300
+
+    creacion de primera linea de cards ultimo icono corazon
+
+[33mcommit f64d5f2146e604e5334b997522ac23b1d34bf62b[m
+Author: alejandra <malejandrazottola@gmail.com>
+Date:   Mon Aug 4 02:58:50 2025 -0300
+
+    seccion color blanco titulo central y guion corto
+
+[33mcommit 518b603759fc0dbbbd2741e6e4a537caa5e300eb[m
+Author: alejandra <malejandrazottola@gmail.com>
+Date:   Mon Aug 4 02:00:06 2025 -0300
+
+    seccionUno estructura dos columnas con colores ya terminada
+
+[33mcommit 39187b7028edc7c423ca462d90ca768483287a62[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;32mmain[m[33m, [m[1;32mdev[m[33m)[m
+Author: alejandra <malejandrazottola@gmail.com>
+Date:   Mon Aug 4 00:45:41 2025 -0300
+
+    estructura nav body y footer finalizado

@@ -27,6 +27,21 @@ main {
 /*card rama galeria*/
 .tamaños {
   width: 100%;
- height: 100%;
+ height: 50%;
+
+}
+
+
+.aumento {
+  width: 100%;
+  height: 100%;
+  transition: 500ms;
+  
+}
+
+.aumento:hover{
+transform: scale(1.02); /*para aumentar de tamaño cuando paso el mouse*/
+filter: grayscale(0%);
+
 
 }
